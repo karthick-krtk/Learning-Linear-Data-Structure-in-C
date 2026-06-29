@@ -1,3 +1,5 @@
+//Balanced Paranthesis using Stack//
+
 #include <stdio.h>
 int main()
 {
